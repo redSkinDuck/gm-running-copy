@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Running Copy"
+  short_description: "Turn TRPG modules into GM-ready prep and running copies."
+  default_prompt: "Use $gm-running-copy to prepare this TRPG module into a GM brief, scene flow, clue matrix, and optional running copy."
